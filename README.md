@@ -3,6 +3,12 @@ This repository serves the purpose of sharing reources that i use to learn Japan
 
 You do not have to follow the resources in this list in any particular order, it is best to tailor your learning experience to yourself and use these resources in any order. These are only suggestions so you dont have to use them if you dont want to but they are the best resources i have found in my Japanese Learning journey that have worked for me so i wanted to share them in the hopes that others can find good guides to teach them Japanese without browsing the internet to try and find resources on their own
 
+
+#### Document Index:
+[General:](https://github.com/njosey/Japanese-Learning-Resources/blob/main/README.md#general)  
+[Reading & Writing:](https://github.com/njosey/Japanese-Learning-Resources/blob/main/README.md#reading--writing)  
+[Speaking & Listening:](https://github.com/njosey/Japanese-Learning-Resources/blob/main/README.md#speaking--listening)
+
 ## General:
 
 ### Jumping off point / Starting Point
