@@ -29,7 +29,7 @@ Below are some resources explaining Japanese scentence structure
 
 ## Speaking & Listening:
 
-## Mirroring resources
+### Mirroring resources
 
 What is mirroring ?: mirroring in language learning is basically listening to a native speaker of the language you are learning and trying to replicate them as best as possible  
 
