@@ -1,4 +1,4 @@
-# "njosey"'s Japanese Learning Resources
+# Japanese Learning Resources
 This repository serves the purpose of sharing reources that i use to learn Japanese so all of my personal recomendations can be in one place and not scattered on the internet in replies to people
 
 You do not have to follow the resources in this list in any particular order, it is best to tailor your learning experience to yourself and use these resources in any order. These are only suggestions so you dont have to use them if you dont want to but they are the best resources i have found in my Japanese Learning journey that have worked for me so i wanted to share them in the hopes that others can find good guides to teach them Japanese without browsing the internet to try and find resources on their own
