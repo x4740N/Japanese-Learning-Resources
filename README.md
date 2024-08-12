@@ -35,8 +35,10 @@ Genki and quartet are not free as you have to purchase them
 ### Japanese Scentence Structure
 Below are some resources explaining Japanese scentence structure
 
-[8020 Japanese's blog post explaining japanese scentence structure](https://8020japanese.com/japanese-sentence-structure/)  
-<sup>direct links to PDF's on that page so you dont have to enter your email address: Hiragana Version: https://d81pp4ybbpmjf.cloudfront.net/80-20-Japanese_Sentence-Structure-Cheat-Sheet_A4-hiragana.pdf Romaji Version: https://d81pp4ybbpmjf.cloudfront.net/80-20-Japanese_Sentence-Structure-Cheat-Sheet_A4-romaji.pdf</sup>
+[8020 Japanese's blog post explaining japanese scentence structure](https://8020japanese.com/japanese-sentence-structure/)    
+direct links to PDF's on that page so you dont have to enter your email address:  
+Hiragana Version: https://d81pp4ybbpmjf.cloudfront.net/80-20-Japanese_Sentence-Structure-Cheat-Sheet_A4-hiragana.pdf  
+Romaji Version: https://d81pp4ybbpmjf.cloudfront.net/80-20-Japanese_Sentence-Structure-Cheat-Sheet_A4-romaji.pdf</sup>
 
 ### Japanese Grammer Guides
 
@@ -55,5 +57,5 @@ What is mirroring ?: mirroring in language learning is basically listening to a 
 
 ## Pitch Accent
 
-* Dogen's phonetic's course which is found on his patreon 
-<sup>this is a paid resource and is not free but id absolutly recomend it if you can afford it, I'd also recomend you download all the videos if you can<sup>
+* Dogen's phonetic's course which is found on his patreon
+  this is a paid resource and is not free but id absolutly recomend it if you can afford it, I'd also recomend you download all the videos if you can
