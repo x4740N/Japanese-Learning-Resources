@@ -37,6 +37,9 @@ Below are some resources explaining Japanese scentence structure
 <sup>direct links to PDF's on that page so you dont have to enter your email address: Hiragana Version: https://d81pp4ybbpmjf.cloudfront.net/80-20-Japanese_Sentence-Structure-Cheat-Sheet_A4-hiragana.pdf Romaji Version: https://d81pp4ybbpmjf.cloudfront.net/80-20-Japanese_Sentence-Structure-Cheat-Sheet_A4-romaji.pdf</sup>
 
 ### Japanese Grammer Guides
+
+I'd know recomend learning grammer from genki over sakubi because i personally find it easier to follow genki over sakubi
+
 [Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
 
 ## Speaking & Listening:
