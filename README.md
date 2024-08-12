@@ -15,10 +15,16 @@ You do not have to follow the resources in this list in any particular order, it
 Below are some resources which i believe are a good starting point to get into japanese as an absolute beginner
 
 [Tofugu's Hiragana Page](https://www.tofugu.com/japanese/learn-hiragana/)  
-[Tofugu's Katakana Page](https://www.tofugu.com/japanese/learn-katakana/)  
+[Tofugu's Katakana Page](https://www.tofugu.com/japanese/learn-katakana/)
+
+I now recomend starting genki and and following its structure after learning hiragana and katakana and looking at the morg.systems resource as a general guide on what to look for when learning Japanese
 [Morg System's Japanese Learning Loop](https://morg.systems/58465ab9)
 
 ## Reading & Writing:
+
+### Genki & Quartet
+
+Id also recomend [Genki: An Integrated Course in Elementary Japanese](https://en.wikipedia.org/wiki/Genki:_An_Integrated_Course_in_Elementary_Japanese) and [Quartet Intermediate Japanese Across the Four Language Skills](https://www.tofugu.com/reviews/quartet-vol1/)
 
 ### Online Japanese Dictionaries
 [JPDB](https://jpdb.io/)
