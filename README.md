@@ -21,6 +21,8 @@ I now recomend starting genki and and following its structure after learning hir
 
 [Morg System's Japanese Learning Loop](https://morg.systems/58465ab9)
 
+[Morg System's Japanese Page](https://morg.systems/Japanese)
+
 ## Reading & Writing:
 
 ### Genki & Quartet
