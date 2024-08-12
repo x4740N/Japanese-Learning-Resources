@@ -26,6 +26,8 @@ I now recomend starting genki and and following its structure after learning hir
 
 Id also recomend [Genki: An Integrated Course in Elementary Japanese](https://en.wikipedia.org/wiki/Genki:_An_Integrated_Course_in_Elementary_Japanese) and [Quartet Intermediate Japanese Across the Four Language Skills](https://www.tofugu.com/reviews/quartet-vol1/)
 
+Genki and quartet are not free as you have to purchase them
+
 ### Online Japanese Dictionaries
 [JPDB](https://jpdb.io/)
 
@@ -50,3 +52,8 @@ What is mirroring ?: mirroring in language learning is basically listening to a 
 
 [Youglish Japanese](https://youglish.com/japanese)  
 <sup>Youglish is a website that will allow you to search for words said in youtube videos in any language the website supports, in this case you are going to use it for Japanese specifically</sup>
+
+## Pitch Accent
+
+* Dogen's phonetic's course which is found on his patreon 
+<sup>this is a paid resource and is not free but id absolutly recomend it if you can afford it, I'd also recomend you download all the videos if you can<sup>
