@@ -22,7 +22,7 @@ I now recomend starting genki and and following its structure after learning hir
 
 ## Reading & Writing:
 
-# Genki & Quartet
+### Genki & Quartet
 
 Id also recomend [Genki: An Integrated Course in Elementary Japanese](https://en.wikipedia.org/wiki/Genki:_An_Integrated_Course_in_Elementary_Japanese) and [Quartet Intermediate Japanese Across the Four Language Skills](https://www.tofugu.com/reviews/quartet-vol1/)
 
