@@ -18,6 +18,7 @@ Below are some resources which i believe are a good starting point to get into j
 [Tofugu's Katakana Page](https://www.tofugu.com/japanese/learn-katakana/)
 
 I now recomend starting genki and and following its structure after learning hiragana and katakana and looking at the morg.systems resource as a general guide on what to look for when learning Japanese
+
 [Morg System's Japanese Learning Loop](https://morg.systems/58465ab9)
 
 ## Reading & Writing:
@@ -36,8 +37,11 @@ Genki and quartet are not free as you have to purchase them
 Below are some resources explaining Japanese scentence structure
 
 [8020 Japanese's blog post explaining japanese scentence structure](https://8020japanese.com/japanese-sentence-structure/)    
+
 direct links to PDF's on that page so you dont have to enter your email address:  
+
 Hiragana Version: https://d81pp4ybbpmjf.cloudfront.net/80-20-Japanese_Sentence-Structure-Cheat-Sheet_A4-hiragana.pdf  
+
 Romaji Version: https://d81pp4ybbpmjf.cloudfront.net/80-20-Japanese_Sentence-Structure-Cheat-Sheet_A4-romaji.pdf</sup>
 
 ### Japanese Grammer Guides
@@ -58,4 +62,5 @@ What is mirroring ?: mirroring in language learning is basically listening to a 
 ## Pitch Accent
 
 * Dogen's phonetic's course which is found on his patreon
+
   this is a paid resource and is not free but id absolutly recomend it if you can afford it, I'd also recomend you download all the videos if you can
